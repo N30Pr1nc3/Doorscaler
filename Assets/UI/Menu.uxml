@@ -1,0 +1,10 @@
+<ui:UXML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ui="UnityEngine.UIElements" xmlns:uie="UnityEditor.UIElements" noNamespaceSchemaLocation="../../UIElementsSchema/UIElements.xsd" editor-extension-mode="False">
+    <Style src="project://database/Assets/UI/Menu.uss?fileID=7433441132597879392&amp;guid=560318a6626844e43ace4ef34869272c&amp;type=3#Menu"/>
+    <ui:VisualElement style="flex-grow: 1;">
+        <ui:TextField label="Doorhight:" placeholder-text="filler text" name="Doorhight" style="height: 31px; width: 269px;"/>
+        <ui:TextField label="Doorwith:" placeholder-text="filler text" name="Doorwith" style="height: 31px; width: 269px;"/>
+        <ui:TextField label="Doordepth:" placeholder-text="filler text" name="Doordepth" style="height: 31px; width: 269px;"/>
+        <ui:TextField label="Windowhight:" placeholder-text="filler text" name="Windowhight" style="height: 31px; width: 269px;"/>
+        <ui:TextField label="Windowwidth:" placeholder-text="filler text" name="Windowwidth" style="height: 31px; width: 269px;"/>
+    </ui:VisualElement>
+</ui:UXML>
